@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">روح الإسلام</string>
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_quran">القرآن</string>
+    <string name="nav_prayer">الصلوات</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_azkar">الأذكار</string>
+    <string name="nav_tasbeeh">السبحة</string>
+
+    <string name="fajr">الفجر</string>
+    <string name="sunrise">الشروق</string>
+    <string name="dhuhr">الظهر</string>
+    <string name="asr">العصر</string>
+    <string name="maghrib">المغرب</string>
+    <string name="isha">العشاء</string>
+
+    <string name="next_prayer">الصلاة القادمة</string>
+    <string name="remaining_time">المتبقي</string>
+    <string name="qibla_direction">اتجاه القبلة</string>
+    <string name="kaaba_distance">المسافة إلى مكة المكرمة</string>
+    <string name="tasbeeh_title">السبحة الإلكترونية</string>
+    <string name="quran_title">القرآن الكريم</string>
+    <string name="search_quran_hint">ابحث في الآيات أو السور…</string>
+    <string name="qada_title">قضاء الصلوات</string>
+</resources>
